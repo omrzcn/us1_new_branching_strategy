@@ -5,6 +5,6 @@ public class CreditCard {
 
     // creditcard created
 
-    // class updated
+    // class completed
 
 }
